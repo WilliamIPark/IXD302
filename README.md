@@ -9,4 +9,4 @@
 - [Semantics](https://williamipark.github.io/IXD302/heroes/week-one/)
 
 ### Master Apprentice
-- [Web Typography](https://williamipark.github.io/IXD302/master-apprentice-typography/)
+- [Web Typography](https://williamipark.github.io/IXD302/ma-typography/)
